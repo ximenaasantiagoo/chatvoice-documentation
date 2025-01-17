@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Bienvenida
+nav_order: 1
 ---
+
+# Bienvenida a la documentación de Chatvoice
+Aquí encontrarás toda la información sobre cómo usar y contribuir al proyecto.
