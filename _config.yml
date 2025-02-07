@@ -22,12 +22,13 @@ title: "Documentación ChatVoice"
 email: ximenasantiagoo@outlook.com
 description: "Documentación ChatVoice."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "ximenaasantiagoo.chatvoice_documentation" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/chatvoice_documentation"
+url: "https://ximenaasantiagoo.github.io/chatvoice_documentation"
+twitter_username: ximenasantiagoo
+github_username: ximenaasantiagoo
 
 # Build settings
-theme: minima
+theme: jekyll-theme-gitbook
 plugins:
   - jekyll-feed
 
