@@ -27,7 +27,7 @@ twitter_username: ximenasantiagoo
 github_username: ximenaasantiagoo
 
 # Build settings
-theme: "just-the-docs"
+theme: jekyll-theme-gitbook
 plugins:
   - jekyll-feed
 
