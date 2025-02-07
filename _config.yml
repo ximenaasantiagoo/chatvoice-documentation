@@ -20,9 +20,8 @@
 
 title: "Documentación ChatVoice"
 email: ximenasantiagoo@outlook.com
-description: "Documentación ChatVoice."
-baseurl: "" # the subpath of your site, e.g. /blog
-baseurl: "/chatvoice_documentation"
+description: "Documentación ChatVoice." 
+baseurl: "/chatvoice_documentation" # the subpath of your site, e.g. /blog
 url: "https://ximenaasantiagoo.github.io/chatvoice_documentation"
 twitter_username: ximenasantiagoo
 github_username: ximenaasantiagoo
