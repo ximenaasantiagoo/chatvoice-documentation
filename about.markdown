@@ -1,18 +1,19 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: "Bienvenido a la documentación de Chatvoice"
+layout: default
 ---
 
-Este sitio es una documentación sobre cómo usar ChatVoice, una herramienta para análisis de voz en Python.
+# Acerca de ChatVoice
+ChatVoice es una plataforma diseñada para documentar y compartir información útil sobre el desarrollo y uso de herramientas innovadoras en la comunicación y tecnología.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Objetivos
+- Crear una fuente de información accesible para los usuarios de ChatVoice.
+- Compartir tutoriales y documentación técnica.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Contacto
+Si tienes preguntas o comentarios, por favor contáctanos en:
+[ximenasantiagoo@outlook.com](mailto:ximenasantiagoo@outlook.com)
 
-
-[jekyll-organization]: https://github.com/jekyll
+## Enlaces importantes
+- [Documentación principal](https://ximenaasantiagoo.github.io/chatvoice-documentation/)
+- [Repositorio en GitHub](https://github.com/ximenaasantiagoo/chatvoice-documentation)

@@ -1,8 +1,15 @@
 ---
+title: "Bienvenido"
 layout: default
-title: Bienvenida
-nav_order: 1
 ---
 
-# Bienvenida a la documentación de Chatvoice
-Aquí encontrarás toda la información sobre cómo usar y contribuir al proyecto.
+# Bienvenido a la Documentación de ChatVoice
+
+Esta es la documentación oficial de **ChatVoice**, diseñada para ayudarte a entender y usar nuestras herramientas de manera efectiva. Aquí encontrarás información técnica, tutoriales y guías detalladas.
+
+## Comienza aquí
+- [Acerca de ChatVoice](/about)
+- [Tutoriales](/tutoriales)
+- [Repositorio en GitHub](https://github.com/ximenaasantiagoo/chatvoice-documentation)
+
+![Logo de ChatVoice](/assets/logo.png)
