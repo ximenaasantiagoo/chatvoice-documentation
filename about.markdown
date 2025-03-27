@@ -3,6 +3,17 @@ title: "Bienvenido a la documentación de Chatvoice"
 layout: default
 ---
 
-# Bienvenido a la documentación de Chatvoice
+# Acerca de ChatVoice
+ChatVoice es una plataforma diseñada para documentar y compartir información útil sobre el desarrollo y uso de herramientas innovadoras en la comunicación y tecnología.
 
-Este es un ejemplo de cómo organizar tu documentación usando Jekyll y el tema **Just the Docs**.
+## Objetivos
+- Crear una fuente de información accesible para los usuarios de ChatVoice.
+- Compartir tutoriales y documentación técnica.
+
+## Contacto
+Si tienes preguntas o comentarios, por favor contáctanos en:
+[ximenasantiagoo@outlook.com](mailto:ximenasantiagoo@outlook.com)
+
+## Enlaces importantes
+- [Documentación principal](https://ximenaasantiagoo.github.io/chatvoice-documentation/)
+- [Repositorio en GitHub](https://github.com/ximenaasantiagoo/chatvoice-documentation)
