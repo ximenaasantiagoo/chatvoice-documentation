@@ -1,15 +1,22 @@
 ---
-title: "Bienvenido"
+title: "Bienvenido a la Documentación de ChatVoice"
 layout: default
 ---
 
-# Bienvenido a la Documentación de ChatVoice
+# Acerca de ChatVoice
+ChatVoice es una plataforma diseñada para documentar y compartir información útil sobre el desarrollo y uso de herramientas innovadoras en la comunicación y tecnología.
 
-Esta es la documentación oficial de **ChatVoice**, diseñada para ayudarte a entender y usar nuestras herramientas de manera efectiva. Aquí encontrarás información técnica, tutoriales y guías detalladas.
+## Objetivos
+- Crear una fuente de información accesible para los usuarios de ChatVoice.
+- Compartir tutoriales y documentación técnica.
 
-## Comienza aquí
-- [Acerca de ChatVoice](/about)
-- [Tutoriales](/tutoriales)
+## Contacto
+Si tienes preguntas o comentarios, por favor contáctanos:
+[ximenasantiagoo@outlook.com](mailto:ximenasantiagoo@outlook.com)
+
+## Enlaces importantes
+- [Documentación principal](https://ximenaasantiagoo.github.io/chatvoice-documentation/)
 - [Repositorio en GitHub](https://github.com/ximenaasantiagoo/chatvoice-documentation)
 
-![Logo de ChatVoice](/assets/logo.png)
+## Tutoriales
+- [Comienza aquí](/tutoriales)
