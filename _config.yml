@@ -5,7 +5,7 @@ email: ximenasantiagoo@outlook.com
 # Breve descripción de la página
 description: "Documentación ChatVoice."
 
-baseurl: "/chatvoice-documentation" # Nombre del repositorio
+baseurl: "" # Nombre del repositorio
 url: "https://ximenaasantiagoo.github.io" # Dominio de GitHub Pages
 # Información adicional
 twitter_username: ximenasantiagoo
@@ -13,6 +13,7 @@ github_username: ximenaasantiagoo
 
 # Configuración del tema 
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 # Plugins
 plugins:
