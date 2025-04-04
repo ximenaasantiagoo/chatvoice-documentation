@@ -12,7 +12,7 @@ twitter_username: ximenasantiagoo
 github_username: ximenaasantiagoo
 
 # Configuración del tema 
-theme: "just-the-docs"
+theme: just-the-docs
 
 # Plugins
 plugins:
