@@ -13,7 +13,7 @@ group :jekyll_plugins do
 end
 
 # Gema CSV (para manejar archivos CSV)
-gem 'csv'
+gem "csv"
 
 # Dependencias adicionales para Windows y JRuby
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -24,9 +24,5 @@ end
 # Para JRuby
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-<<<<<<< HEAD
+# Tema adicional (si realmente es necesario)
 gem "jekyll-theme-gitbook", "~> 0.0.6"
-gem 'csv'
-=======
-
->>>>>>> ef7224d6c4d229095d92a9be1dc3409b3dd66382
