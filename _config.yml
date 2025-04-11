@@ -1,27 +1,18 @@
-# Título de la página 
-title: "Documentación ChatVoice"
-# Correo del propietario 
+title: "ChatVoice"
 email: ximenasantiagoo@outlook.com
-# Breve descripción de la página
-description: "Documentación ChatVoice."
+description: "Documentación de un ChatVoice."
 
-baseurl: "" # Nombre del repositorio
-url: "https://ximenaasantiagoo.github.io" # Dominio de GitHub Pages
-# Información adicional
-twitter_username: ximenasantiagoo
-github_username: ximenaasantiagoo
+baseurl: "/chatvoice-documentation"
+url: ""
 
-# Configuración del tema 
 theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
 
-# Plugins
 plugins:
   - jekyll-feed
 
-# Exclusiones
 exclude:
   - .sass-cache/
   - .jekyll-cache/
   - node_modules/
-  - vendor/
+
+
