@@ -1,16 +1,40 @@
-title: "ChatVoice"
-description: "Documentación de un ChatVoice."
+title: "Documentación ChatVoice"
+email: ximenasantiagoo@outlook.com
+description: "Documentación ChatVoice."
 
-url: ""
+baseurl: "/chatvoice-documentation" # Nombre del repositorio
+url: "https://ximenaasantiagoo.github.io" # Dominio de GitHub Pages
 
+twitter_username: ximenasantiagoo
+github_username: ximenaasantiagoo
+
+# Tema y plugins
 theme: just-the-docs
-
 plugins:
   - jekyll-feed
 
+# Configuración de navegación
+collections:
+  docs:
+    output: true
+    permalink: /:path/
+
+# Orden de navegación
+nav_order:
+  - index.md
+  - arquitectura.md
+  - requisitos.md
+  - instalacion.md
+  - diseño.md
+
+# Configurar enlaces adicionales
+aux_links:
+  "Repositorio en GitHub": "https://github.com/ximenasantiagoo/chatvoice-documentation"
+
+# Excluir archivos y carpetas innecesarias
 exclude:
   - .sass-cache/
   - .jekyll-cache/
   - node_modules/
-
-
+  - vendor/
+  - Gemfile.lock
